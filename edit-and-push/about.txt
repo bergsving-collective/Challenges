@@ -3,4 +3,4 @@ Course: Intro to Terminal
 Year: 2026
 
 Tell us a bit about yourself:
-
+Hei, jeg heter Jonny. Jeg er 42 år, og jeg liker Anselm, Tyskland.
