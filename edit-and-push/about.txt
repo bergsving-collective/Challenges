@@ -1,4 +1,4 @@
-Name: 
+Name: odd william
 Course: Intro to Terminal
 Year: 2026
 
